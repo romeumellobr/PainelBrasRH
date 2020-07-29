@@ -1,0 +1,3 @@
+include ':thermalsdk-release'
+include ':androidsdk-release'
+include ':app' ,':tensorflow-lite'
